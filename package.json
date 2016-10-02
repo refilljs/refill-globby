@@ -1,6 +1,6 @@
 {
   "name": "refill-globby",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "Globby, which fails when there is no matched files",
   "main": "src/refillGlobby.js",
   "repository": {
