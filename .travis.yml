@@ -27,4 +27,4 @@ deploy:
     node: 6
     condition: $TRAVIS_OS_NAME == linux
     tags: true
-    repo: refilljs/refill-logger
+    repo: refilljs/refill-globby
